@@ -3,3 +3,4 @@ pickle-mixin
 streamlit
 scikit-learn
 tensorflow
+Keras
